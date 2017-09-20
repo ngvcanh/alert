@@ -16,7 +16,7 @@ Alert.popup(options);
 title _(string)_ | property | Title of popup, can use HTML
 message _(string)_ | property | Content of popup, can use HTML
 classes _(string)_ | property | Class color of popup (Value: _error_ (red), _success_ (green), _confirm_ (blue), _warning_ (orange))
-iconClose _(boolean)_ | property | Display icon close popup (Default : ** _false_ **)
+iconClose _(boolean)_ | property | Display icon close popup (Default : **_false_**)
 width _(string)_ | property | Width of popup, contains unit (**px** or __%__, Default : _300px_)
 btn _(array)_ | property | List button below of popup, Each button is an object
 
