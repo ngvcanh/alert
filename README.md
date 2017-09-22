@@ -21,7 +21,7 @@ width _(string)_ | property | Width of popup, contains unit (**px** or __%__, De
 btn _(array)_ | property | List button below of popup, Each button is an object
 
 With each button is an object, they are listed from right to left. Create button as follow:
-````json
+````javascript
 {label : "OK", color : "red", isFocus : true, fn : Alert.close}
 ````
 
