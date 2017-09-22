@@ -5,7 +5,7 @@
 
 ## Create popup
 
-````
+````javascript
 Alert.popup(options);
 ````
 
@@ -32,6 +32,6 @@ With each button is an object, they are listed from right to left. Create button
 
 ## Close popup
 
-````
+````javascript
 Alert.close()
 ````
